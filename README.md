@@ -1,32 +1,72 @@
 # Hospital Emergency Room Dashboard
 
+A comprehensive Power BI dashboard project designed to monitor, analyze, and visualize emergency room operations, patient flow, wait times, referral patterns, and service delivery performance. This dashboard provides actionable insights for healthcare administrators to improve operational efficiency and patient care outcomes.
+
 ## Project Overview
 
-The Hospital Emergency Room Dashboard is a Power BI analytics project designed to monitor and analyze emergency room performance metrics.
+The Hospital Emergency Room Dashboard was built to analyze patient admissions and operational trends within an emergency care environment.
 
-This dashboard provides actionable insights into patient flow, waiting time, admission trends, departmental referrals, and overall emergency room efficiency.
+The dashboard is structured into three analytical views:
 
+Monthly View → Tracks emergency room performance for a selected month
+Consolidated View → Provides an overall historical performance summary
+Patient Details View → Enables granular patient-level drill-down analysis
 
-## Objectives
+This project demonstrates practical application of:
 
-The project was developed to:
+Data Cleaning
+Data Modeling
+DAX Calculations
+Data Visualization
+Healthcare KPI Analysis
+Interactive Dashboard Design
 
-* Monitor patient inflow patterns
-* Analyze average waiting time
-* Track admission status
-* Identify departmental referral trends
-* Improve emergency room operational efficiency
+## Project Objectives
 
+This dashboard was developed to answer critical healthcare operational questions:
+
+How many patients visit the emergency room?
+What is the average patient waiting time?
+Are patients being attended to within acceptable response times?
+What is the patient satisfaction level?
+Which age groups dominate ER visits?
+What departments receive the most referrals?
+What are peak admission periods?
+Are there gender or race-based patient distribution patterns?
 
 ## Tools & Technologies Used
 
-* **Power BI**
-* **Power Query**
-* **DAX**
-* **Data Visualization**
-* **Data Cleaning & Transformation**
+* Power BI Desktop
 
----
+Purpose: Dashboard development and visualization
+
+Used For:
+Creating interactive reports
+Designing KPI cards
+Building slicers
+Creating drill-through reports
+Data modeling
+Publishing dashboard-ready visuals
+2. Power Query
+
+Purpose: Data transformation and cleaning
+
+Applied To:
+Handling missing values
+Standardizing inconsistent data
+Formatting date fields
+Cleaning categorical variables
+Removing duplicates
+Why It Matters
+
+Clean healthcare data ensures:
+
+Accurate wait-time calculations
+Reliable patient counts
+Correct trend analysis
+3. DAX (Data Analysis Expressions)
+
+Purpose: Creating custom calculations
 
 ## Key Performance Indicators (KPIs)
 
