@@ -97,12 +97,12 @@ Admission patterns reveal recurring rush periods.
 
 This dashboard enables hospital management to:
 
-✅ Improve patient flow
-✅ Reduce waiting time
-✅ Optimize staff scheduling
-✅ Improve departmental coordination
-✅ Enhance patient satisfaction
-✅ Support data-driven decision-making
+* Improve patient flow
+*  Reduce waiting time
+* Optimize staff scheduling
+* Improve departmental coordination
+* Enhance patient satisfaction
+* Support data-driven decision-making
 
 
 ## Author
