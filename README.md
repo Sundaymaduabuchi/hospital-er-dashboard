@@ -6,7 +6,6 @@ The Hospital Emergency Room Dashboard is a Power BI analytics project designed t
 
 This dashboard provides actionable insights into patient flow, waiting time, admission trends, departmental referrals, and overall emergency room efficiency.
 
----
 
 ## Objectives
 
@@ -18,7 +17,6 @@ The project was developed to:
 * Identify departmental referral trends
 * Improve emergency room operational efficiency
 
----
 
 ## Tools & Technologies Used
 
@@ -39,7 +37,6 @@ The project was developed to:
 * Peak Visit Hours
 * Patient Satisfaction Metrics
 
----
 
 ## Dashboard Features
 
@@ -59,7 +56,6 @@ Shows admitted vs non-admitted patient trends.
 
 Identifies referral frequency across departments.
 
----
 
 ## Key Insights
 
@@ -68,13 +64,11 @@ Identifies referral frequency across departments.
 * Waiting time trends reveal potential service bottlenecks
 * Admission patterns provide operational planning insights
 
----
 
 ## Dashboard Preview
 
 ![Hospital ER Dashboard](assets/dashboard-preview.png)
 
----
 
 ## Business Impact
 
@@ -85,7 +79,6 @@ This dashboard helps healthcare administrators:
 * Improve service delivery
 * Enhance operational efficiency
 
----
 
 ## Author
 
