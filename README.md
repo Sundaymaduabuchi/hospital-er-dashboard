@@ -8,65 +8,58 @@ The Hospital Emergency Room Dashboard was built to analyze patient admissions an
 
 The dashboard is structured into three analytical views:
 
-Monthly View → Tracks emergency room performance for a selected month
-Consolidated View → Provides an overall historical performance summary
-Patient Details View → Enables granular patient-level drill-down analysis
+* Monthly View → Tracks emergency room performance for a selected month
+* Consolidated View → Provides an overall historical performance summary
+* Patient Details View → Enables granular patient-level drill-down analysis
 
 This project demonstrates practical application of:
 
-Data Cleaning
-Data Modeling
-DAX Calculations
-Data Visualization
-Healthcare KPI Analysis
-Interactive Dashboard Design
+* Data Cleaning
+* Data Modeling
+* DAX Calculations
+* Data Visualization
+* Healthcare KPI Analysis
+* Interactive Dashboard Design
 
 ## Project Objectives
 
 This dashboard was developed to answer critical healthcare operational questions:
 
-How many patients visit the emergency room?
-What is the average patient waiting time?
-Are patients being attended to within acceptable response times?
-What is the patient satisfaction level?
-Which age groups dominate ER visits?
-What departments receive the most referrals?
-What are peak admission periods?
-Are there gender or race-based patient distribution patterns?
+* How many patients visit the emergency room?
+* What is the average patient waiting time?
+* Are patients being attended to within acceptable response times?
+* What is the patient satisfaction level?
+* Which age groups dominate ER visits?
+* What departments receive the most referrals?
+* What are peak admission periods?
+* Are there gender or race-based patient distribution patterns?
 
 ## Tools & Technologies Used
 
-* Power BI Desktop
+1. **Power BI Desktop**
 
 Purpose: Dashboard development and visualization
 
-Used For:
-Creating interactive reports
-Designing KPI cards
-Building slicers
-Creating drill-through reports
-Data modeling
-Publishing dashboard-ready visuals
-2. Power Query
+**Used For**:
+* Creating interactive reports
+* Designing KPI cards
+* Building slicers
+* Creating drill-through reports
+* Data modeling
+* Publishing dashboard-ready visuals
+  
+2. **Power Query**
 
-Purpose: Data transformation and cleaning
+**Purpose**: Data transformation and cleaning
 
-Applied To:
-Handling missing values
-Standardizing inconsistent data
-Formatting date fields
-Cleaning categorical variables
-Removing duplicates
-Why It Matters
-
-Clean healthcare data ensures:
-
-Accurate wait-time calculations
-Reliable patient counts
-Correct trend analysis
-3. DAX (Data Analysis Expressions)
-
-Purpose: Creating custom calculations
+**Applied To**:
+* Handling missing values
+* Standardizing inconsistent data
+* Formatting date fields
+* Cleaning categorical variables
+* Removing duplicates
+* 
+3. **DAX (Data Analysis Expressions)**
 
 ## Key Performance Indicators (KPIs)
 
