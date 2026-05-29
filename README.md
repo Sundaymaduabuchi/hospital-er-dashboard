@@ -58,59 +58,51 @@ Purpose: Dashboard development and visualization
 * Formatting date fields
 * Cleaning categorical variables
 * Removing duplicates
-* 
+  
 3. **DAX (Data Analysis Expressions)**
 
-## Key Performance Indicators (KPIs)
+4. **Date Table**
 
-* Total Patient Visits
-* Average Waiting Time
-* Admission Rate
-* Referral Distribution
-* Peak Visit Hours
-* Patient Satisfaction Metrics
+A custom date dimension was created for:
 
+* Monthly filtering
+* Time intelligence analysis
+* Consolidated trend analysis
 
-## Dashboard Features
+**Fields include**:
 
-### Patient Flow Analysis
+* Date
+* Month Name
+* Month & Year
+* Week Day
+* Year
 
-Tracks patient movement through the emergency room process.
+## Key Business Insights
 
-### Waiting Time Monitoring
+### 1. Operational Bottleneck Exists
+33% of patients exceed response benchmark.
 
-Analyzes delays and service bottlenecks.
+### 2. Specialist Departments Face Pressure
+High referrals indicate:
+* Potential bottlenecks
+* Resource concentration
 
-### Admission Insights
+### 3. Strong Patient Satisfaction
+Despite wait times, satisfaction remains high.
 
-Shows admitted vs non-admitted patient trends.
+### 4. Predictable Peak Hours
+Admission patterns reveal recurring rush periods.
 
-### Department Referral Analysis
+## Business Value of This Dashboard
 
-Identifies referral frequency across departments.
+This dashboard enables hospital management to:
 
-
-## Key Insights
-
-* Peak patient visits occur during high-demand periods
-* Certain departments receive significantly higher referrals
-* Waiting time trends reveal potential service bottlenecks
-* Admission patterns provide operational planning insights
-
-
-## Dashboard Preview
-
-![Hospital ER Dashboard](assets/dashboard-preview.png)
-
-
-## Business Impact
-
-This dashboard helps healthcare administrators:
-
-* Optimize staffing decisions
-* Reduce patient waiting time
-* Improve service delivery
-* Enhance operational efficiency
+✅ Improve patient flow
+✅ Reduce waiting time
+✅ Optimize staff scheduling
+✅ Improve departmental coordination
+✅ Enhance patient satisfaction
+✅ Support data-driven decision-making
 
 
 ## Author
